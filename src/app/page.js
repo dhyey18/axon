@@ -476,7 +476,7 @@ export default function Example() {
           <div className="tab-header">
             <ul>
               <li className="active" data-tab="Tfirst">
-                Internet of Things
+                IOT
               </li>
               <li data-tab="Tsecond">Automation</li>
               <li data-tab="Tthird">Smart City</li>
@@ -533,7 +533,7 @@ export default function Example() {
                     <span className="font-semibold">us:</span> We are one of the leading system integrator in the country. Multi locational presence allows us to cater to various industrial verticals/domains.
                   </p>
                   <p className="text-[#010101] md:text-xl text-lg pb-3.5">
-                    <span className="font-semibold">Solution:</span> We are authorized Solution partner of Siemens Automation product range. We have implemented different products like DCS, PLC, SCADA, HMI, etc.
+                    <span className="font-semibold">Solution:</span> We are authorized Solution partner of Siemens Automation product range.
                   </p>
                   <a
                     className="flex items-center gap-x-2.5 group transition duration-500"
@@ -611,9 +611,9 @@ export default function Example() {
 
 
 
- {/* contact */}
+      {/* contact */}
 
- <div className="isolate bg-white px-6 py-24  sm:py-32 lg:px-8">
+      <div className="isolate bg-white px-6 py-24  sm:py-32 lg:px-8">
         <div
           className="absolute inset-x-0 top-[-10rem] -z-10 transform-gpu overflow-hidden blur-3xl sm:top-[-20rem]"
           aria-hidden="true"
@@ -844,8 +844,5 @@ export default function Example() {
       </div>
 
     </>
-
-
   )
 }
-
