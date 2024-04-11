@@ -231,7 +231,7 @@ export default function Example() {
             aria-hidden="true"
           >
           </div>
-          <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
+          <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56"> 
             <div className="hidden sm:mb-8 sm:flex sm:justify-center">
               <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
                 Announcing our next round of funding.{' '}
@@ -465,7 +465,7 @@ export default function Example() {
         <h2 className="text-[#070127] xl:text-5xl md:text-[40px] text-[28px] font-semibold lg:pb-12 pb-7 text-center">
           What we offer
         </h2>
-        <div className="tabs-main">
+        <div className="tabs-main p-2">
           <div className="tab-header">
             <ul>
               <li className="active" data-tab="Tfirst">
