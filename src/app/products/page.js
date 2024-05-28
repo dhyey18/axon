@@ -14,6 +14,7 @@
 */
 "use client";
 import Link from 'next/link'
+import Nav from "../components/Nav"
 const products = [
   {
     id: 1,
@@ -68,6 +69,7 @@ export default function Example() {
           </div>
         </div>
       </div> */}
+      <Nav />
       <div className="bg-white py-16 sm:py-32">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <h2 className="text-center text-lg font-semibold leading-8 text-gray-900">

@@ -154,3 +154,8 @@
     padding: 0;
   }
 }
+
+.dhyeydata{
+  border: 2px solid green;
+  background-image:url("../../public/axon2.jpg");
+}
