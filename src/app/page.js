@@ -121,6 +121,10 @@ export default function Example() {
   return (
     <>
 
+      <a href="https://wa.me/9328152863" target="_blank" className="fixed bottom-4 right-4">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" className="w-14 h-14" alt="WhatsApp Chat" />
+      </a>
+
       <div className="bg-white">
         {/* <header className="absolute inset-x-0 top-0 z-50"> */}
         {/* <nav className="flex items-center justify-between fixed py-1 px-3.5 lg:px-8 bg-gray-50 w-full sm:h-20" aria-label="Global">
@@ -369,6 +373,9 @@ export default function Example() {
           </div>
         </div>
       </div>
+      {/* <a href="https://wa.me/9033791339" target="_blank" className="fixed bottom-4 right-4">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" className="w-14 h-14" alt="WhatsApp Chat" />
+      </a> */}
 
       {/* <div className="bg-[#635BFF] bg-middle-shade 2xl:px-0 px-5">
         <div className="flex items-center max-w-[1125px] mx-auto pt-[120px] pb-20">
@@ -706,14 +713,16 @@ export default function Example() {
         </form>
       </div>
 
-
+      <a href="https://wa.me/9328152863" target="_blank" className="fixed bottom-4 right-4">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" className="w-14 h-14" alt="WhatsApp Chat" />
+      </a>
       <div className="relative isolate overflow-hidden bg-gray-900 py-16 sm:py-24 lg:py-32">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-2">
             <div className="max-w-xl lg:max-w-lg">
               <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">Contact Details</h2>
               <p className="mt-4 text-lg leading-8 text-gray-300">
-                Call us: 9924428852 , 9328152863
+                Call us: 9328152863
                 <br></br>
                 Email Us: axontechnology28@gmail.com
               </p>
@@ -772,7 +781,9 @@ export default function Example() {
           />
         </div>
       </div>
-
+      <a href="https://wa.me/9328152863" target="_blank" className="fixed bottom-4 right-4">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" className="w-14 h-14" alt="WhatsApp Chat" />
+      </a>
     </>
   )
 }

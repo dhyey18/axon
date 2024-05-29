@@ -34,6 +34,9 @@ export default function Example() {
 
     return (
         <header className="bg-gray-100 mt-5">
+            <a href="https://wa.me/9328152863" target="_blank" className="fixed bottom-4 right-4">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" className="w-14 h-14" alt="WhatsApp Chat" />
+            </a>
             <nav className="mx-auto flex max-w-7xl items-center justify-between p-4 lg:px-8" aria-label="Global">
                 <div className="flex lg:flex-1">
                     <a href="/" className="-m-1.5 p-1.5">
